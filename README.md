@@ -6,7 +6,7 @@
 
 [![Resume Preview](img/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-resume/)**
+**[View Live Resume](https://https://tekpixo.github.io/)**
 
 ## Status
 
