@@ -83,6 +83,26 @@ p.lead {
   color: #34558b;
 }
 
+.nav-item:last-child {
+  margin-top: 5em;
+}
+
+.lang-en {
+  display: none !important;
+}
+
+#en-flag {
+  -webkit-filter: brightness(0.4) !important;
+  filter: brightness(0.4) !important;
+}
+
+.lang-flags {
+  width: 2em;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;

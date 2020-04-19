@@ -78,3 +78,22 @@ p.lead {
     }
   }
 }
+
+.nav-item:last-child {
+  margin-top: 5em;
+}
+
+.lang-en {
+  display: none !important;
+}
+
+#en-flag {
+  filter: brightness(0.4) !important;
+}
+
+.lang-flags {
+  width: 2em;
+  display: inline-block;
+  margin: 0 5px;
+  cursor: pointer;
+}
